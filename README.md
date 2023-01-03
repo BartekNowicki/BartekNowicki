@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BartekNowicki
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning javascript, React, Python, typescript and three.js
+- 👀 I’m interested in frontend and backend development.
+- 🌱 I’m currently learning Javascript, React, Typescript, Three.js, Java, Spring Boot, Hibernate, Mysql, Datadog, Jenkins and other tooling.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me at bartosznowickihq@gmail.com
 
